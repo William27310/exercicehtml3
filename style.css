@@ -2,18 +2,15 @@ nav {
     width: 100vw;
     height: 5vh;
     display: table-cell;
-    border: 2px solid black;
 }
 
 ul,li  {
     list-style-type: none;
     display: inline-block;
-    border: 2px solid black;
     text-align: center;
 }
 
 .scdp h1, h2 {
-    border: 2px solid black;
     margin-top: 5rem;
 }
 
